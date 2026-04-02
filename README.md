@@ -1,6 +1,6 @@
 # autox
 
-Codex 用の半自動入力スクリプトです。
+Windows Codex 用の半自動入力スクリプトです。
 
 ## 起動
 
